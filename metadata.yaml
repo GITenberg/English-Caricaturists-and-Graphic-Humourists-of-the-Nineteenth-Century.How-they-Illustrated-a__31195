@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35049'
     url: http://www.gutenberg.org/2009/agents/35049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31195#English-Caricaturists-and-Graphic-Humourists-of-the-Nineteenth-Century.How-they-Illustrated-a_
 gutenberg_issued: '2010-02-06'
 gutenberg_type: Text
 identifiers:
